@@ -6,3 +6,4 @@ It will only work if:
   2) inside each movie folder there is a single-file movie and no other files
   3) inside each movie folder there is a folder called "subs" with a srt file inside.
 
+It will copy the srt file to the movie folder, rename it as the movie plus "en.srt" and the rename the "subs" folder to "subs_processed"
